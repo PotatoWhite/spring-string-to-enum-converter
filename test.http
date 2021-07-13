@@ -1,0 +1,8 @@
+###
+GET localhost:8080/string?code=3
+Content-Type: application/json
+
+
+###
+GET localhost:8080/integer?code=2
+Content-Type: application/json
